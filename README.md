@@ -6,7 +6,7 @@ Execute os comandos abaixo para clonar o repositório, baixar as dependências e
 
 ## 🖥️ Clone do projeto:
 
-    ```bash
+    ```shell
     git clone https://github.com/danilotorchio/goexpert-multithreading.git
     ```
 
