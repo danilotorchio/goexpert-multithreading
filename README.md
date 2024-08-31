@@ -14,7 +14,7 @@ Execute os comandos abaixo para clonar o repositório, baixar as dependências e
 
 Para executar este programa, siga as instruções abaixo:
 
-1. Certifique-se de ter o Golang instalado em sua máquina. Caso contrário, você pode baixá-lo no site oficial do Golang: https://golang.org/
+1. Certifique-se de ter o Golang instalado em sua máquina. Caso contrário, você pode baixá-lo no site oficial do Golang: https://go.dev/
 
 2. Abra o seu terminal e navegue até o diretório do projeto.
 
